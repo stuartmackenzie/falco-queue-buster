@@ -17,7 +17,7 @@ Here are some important points to consider:
 
 ## Installation
 
-Navigate to [Releases](https://github.com/stuartmackenzie/falco-queue-app-dev/releases) and download the executable for your operating system.
+Navigate to [Releases](https://github.com/stuartmackenzie/falco-queue-buster/releases) and download the executable for your operating system.
 
 `Note: You may be prompted to proceed at your own risk. The software is not signed.`
 
