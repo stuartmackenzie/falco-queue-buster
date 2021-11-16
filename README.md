@@ -42,3 +42,23 @@ For AMD, we will announce when to start your tasks.
 AMD pre queue typically opens globally on Thursdays at 9:45 AM EST.
 
 'Be sure to check the #amd channel in the Falco Discord'
+
+## Playstation Queue with Invite Link
+
+<img src="assets/ps.nov16.png?raw=true" alt="drawing" style="width:400px;"/>
+
+`Example Invite Link`
+
+```bash
+https://direct-queue.playstation.com/?c=sonyied&e=vipenus0670&ver=v3-javascript-3.6.3&cver=328&man=Assign%20Action%20VIP-Prod%20&t=https%3A%2F%2Fdirect.playstation.com%2Fen-us%2Fps5-secured%3Finviteid%3D08A00KA1B38G97FF%26emcid%3Dem-ps-423163%26et_rid%3D%26et_cid%3D211115-DIRECT03-US-HRD-B-FLX%26Linkid%3D211115-DIRECT03-US-HRD-B-FLX%26&kupver=akamai-1.0.2
+```
+
+- Extract the inviteid paramater from the invite link and add the queue buster
+
+```bash
+inviteid%3D<HERE IS THE INVITE ID>%26
+```
+
+- Example above: 08A00KA1B38G97FF
+
+<img src="assets/ps.nov16.form.png?raw=true" alt="drawing" style="width:400px;"/>
